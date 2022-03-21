@@ -1,0 +1,286 @@
+<resources>
+    <string name="app_name">Ecology App</string>
+    <string name="food_management">Food Bank</string>
+    <string name="recycling">Recycling</string>
+    <string name="brick_inertwaste">What is Brick and Inert Waste?
+Bricks have a lifespan of more than 200 years. You can reclaim or recycle bricks and blocks which have previously been used in the construction of buildings, walls, paving and infrastructure, such as bridges and sewers. These include:\n
+        <i>Clay bricks</i>\n
+        <i>Concrete precast</i>\n
+        <i>Aerated blocks</i>\n
+        <i>Stone blocks</i>\n
+The most common sources of brick and block waste include items that are damaged during unloading, storage and cutting, and excess due to over ordering.\n
+
+ What is Brick Recycling??\n
+You can reclaim undamaged bricks and blocks and use them in new building projects or sell them to other businesses which deal in reclaimed bricks.\n
+
+You can recycle damaged bricks and blocks and use them:\n
+
+        <i>To make aggregate for use as general fill or highway sub-base</i>\n
+        <i>In landscaping</i>\n
+        <i>To produce new bricks and blocks</i>\n
+        <i>To make sports surfaces such as tennis courts and athletics tracks</i>\n
+        <i>As plant substrate</i>\n
+    </string>
+    <string name="plastic_recycling">Plastic is one of the most popular and useful materials of modern times: we now use about 20 times more plastic than we did 50 years ago. Its popularity and widespread use is why handling it responsibly and correctly once it becomes waste is so vitally important. We can optimise the lifespan of plastics by re-using and recycling items as many times as possible.\n
+        What about other plastics?\n
+Mixed plastics packaging (trays, tubs, pots, films etc) can also be mechanically recycled, and it is both economically and environmentally effective to do so. \n
+
+        <b>How is it recycled?</b>\n
+Plastics are:\n
+        <i>Sorted by polymer type</i>\n
+        <i>Shredded</i>\n
+        <i>Washed</i>\n
+        <i>Melted</i>\n
+        <i>Pelletised</i>\n
+        <i>Made into new products.</i>\n
+It is a two-stage process:\n
+Sorting is mainly done automatically with a manual sort to ensure all contaminants have been removed
+Once sorted and cleaned, plastic can either be shredded into flakes or melt processed to form pellets before finally being moulded into new products.\n
+        <b>Environmental impact</b>\n
+Plastic is a popular and highly versatile material, and we use a lot of it. Optimising the lifespan of plastics by re-using and recycling items as many times as possible, for example, by recycling used plastic bottles into new ones, we can therefore reduce our need to create new plastic.
+\nThis means we can:\n
+        <i>conserve non-renewable fossil fuels (oil)</i>\n
+        <i>reduce the consumption of energy used in the production of new plastic</i>\n
+        <i>reduce the amount of solid waste going to landfill</i>\n
+        <i>reduce emission of gases like carbon dioxide into the atmosphere.</i>\n
+        <b>Problems and issues</b>\n
+There are many different types of plastic in use, some of which we can recycle in the UK and other types – including that used to make flexible pouches  – which will require new technology before we are able to recycle it effectively. This means that some plastic still goes to landfill, some is incinerated and some shipped abroad for recycling.
+There are currently large investments being made in Britain to help our domestic plastic recycling sector cope with the variety of plastics in use and it won\'t be long before we operate a more efficient recycling system for all different types of plastic packaging.
+In the meantime we can all do our bit to improve things now. Recycling plastic bottles is one easy way to help. They are usually made from two easily recyclable plastics – PET and HDPE – and can be recycled by most of us via our household recycling collections or local recycling centres.
+Made from recycled\n
+There is a wide range of products made from recycled plastic including:\n
+        <i>Refuse sacks and carrier bags</i>\n
+        <i>Underground drainage systems for homes and national infrastructure</i>\n
+        <i>Flower pots, seed trays, watering cans and water butts</i>\n
+        <i>Wheel arch liners and bumpers on cars</i>\n
+        <i>Damp proof membranes, guttering and window profiles used in construction</i>\n
+        <i>Reusable crates and pallets</i>\n
+        <i>Wheel bins and food caddies</i>\n
+        <i>Composters and wormeries</i>\n
+        <i>Drinks bottles and food trays</i>\n
+        <i>Polyester fabric for clothing.</i>\n
+        The different types of plastic\n
+You may notice symbols on plastic packaging explaining the type of plastic they\'re made of and how to recycle them. Read Packaging symbols explained for more information.
+You may have seen an increase in businesses moving to different types of plastic packaging, but knowing your bio-plastics from your biodegradable plastics can be very confusing.
+Plastic can be made from fossil-based or bio-based materials. Both can be used to make highly durable, non-biodegradable plastics, or plastics which either biodegrade or compost.\n
+Fact: Just because a plastic is made from bio-based sources, does not automatically mean it will biodegrade!\n
+Only non-biodegradable plastic can be recycled, regardless of whether it is fossil-based or bio-based. Enter your postcode into our Recycling Locator tool to find out which plastics your council collects.
+Compostable plastics can be composted at industrial scale composting facilities, so you can put these in with your green waste but only if it goes to one of these facilities - your council will be able to tell you where your green waste goes.
+Some compostable plastics can also be home composted and should be clearly labelled if this is the case. Compostable plastics should not go in with your dry recycling as they cannot be recycled in the same way as non-biodegradable plastic.
+Biodegradable plastics also cannot be recycled in the same way as non-biodegradable plastics. Some can be composted, but not all, and should be clearly labelled if this is the case.
+Biodegradable packaging should be clearly labelled as such, and should not go in with your dry recycling.</string>
+    <string name="electronic_recycling">Electronic waste (e-waste) typically includes discarded computer monitors, motherboards, mobile phones and chargers, compact discs, headphones, television sets, air conditioners and refrigerators. According to the Global E-Waste Monitor 2017, India generates about 2 million tonnes (MT) of e-waste annually and ranks fifth among e-waste producing countries, after the US, China, Japan and Germany. In 2016-17, India treated only 0.036 MT of its e-waste.\n
+About 95 per cent of India\’s e-waste is recycled in the informal sector and in a crude manner. A report on e-waste presented by the United Nations (UN) in World Economic Forum on January 24, 2019 points out that the waste stream reached 48.5 MT in 2018 and the figure is expected to double if nothing changes.\n
+Only 20 per cent of global e-waste is recycled. The UN report indicates that due to poor extraction techniques, the total recovery rate of cobalt (the metal which is in great demand for laptop, smart phone and electric car batteries) from e-waste is only 30 per cent.
+The report cites that one recycler in China already produces more cobalt (by recycling) than what the country mines in one year. Recycled metals are also 2 to 10 times more energy-efficient than metals smelted from virgin ore.\n
+The report suggests that lowering the amount of electronics entering the waste stream and improving end-of-life handling are essential for building a more circular economy, where waste is reduced, resources are conserved and are fed back into the supply chain for new products.\n
+On a positive note, media reports highlighted that the 2020 Tokyo Olympics medals will be made of 50,000 tonnes of e-waste. The organising committee will make all the medals from old smartphones, laptops and other gadgets. By November 2018, organisers had collected 47,488 tonnes of devices, from which nearly 8 tonnes of gold, silver and bronze will be extracted to make 5,000 medals. About 1,600 or 90 per cent municipal authorities in Japan were involved in collection activities.\n
+Laws to manage e-waste have been in place in India since 2011, mandating that only authorised dismantlers and recyclers collect e waste. E-waste (Management) Rules, 2016 was enacted on October 1, 2017. Over 21 products (Schedule-I) were included under the purview of the rule.\n
+The rule also extended its purview to components or consumables or parts or spares of Electrical and Electronic Equipment (EEE), along with their products. The rule has strengthened the Extended Producer Responsibility (EPR), which is the global best practice to ensure the take-back of the end-of-life products.\n
+A new arrangement called Producer Responsibility Organisation (PRO) has been introduced to strengthen EPR further. The producers have to meet targets, which should be 20 per cent of the waste generated by their sales. This will increase by 10 per cent annually for the next five years. The law also says that the responsibility of producers is not confined to waste collection, but also to ensure that the waste reaches the authorised recycler/dismantler.\n
+And despite new rules that have come into place to safely process this hazardous material, close to 80 per cent of e-waste — old laptops and cell phones, cameras and air conditioners, televisions and LED lamps — continues to be broken down, at huge health and environmental cost polluting ground water and soil, by the informal sector.\n
+E-waste is growing at a compound annual growth rate (CAGR) of about 30 per cent in the country. ASSOCHAM, one of the apex trade associations of India, estimated that e-waste generation was 1.8 MT per annum in 2016 and would reach 5.2 MT per annum by 2020.
+India now has 178 registered e-waste recyclers, accredited by the state governments to process e-waste. But many of India’s e-waste recyclers aren’t recycling waste at all. While some are storing it in hazardous conditions, others don’t even have the capacity to handle such waste, as per by the report of Union Environment ministry. \n
+<b>Initiatives on building awareness in e-waste management</b>\n
+The Ministry of Electronics and Information Technology (MeitY) has initiated an e-waste awareness programme under Digital India, along with industry associations from 2015, to create awareness among the public about the hazards of e-waste recycling by the unorganised sector, and to educate them about alternate methods of disposing their e-waste.\n
+The programme stresses the need for adopting environment friendly e-waste recycling practices. The programme has adopted the best practices for e-waste recycling available globally, so that this sector could generate jobs as well as viable business prospects for locals.
+Development of waste recycling technologies\n
+The MeitY has developed affordable technologies to recycle valuable materials  and plastics in an environmentally sound manner, including two exclusive PCB recycling technologies, viz 1000 kg/ day capacity (~35 MT e-waste) and 100kg/batch (~3.5MT e-waste) processes, with acceptable environmental norms.\n
+The 1000kg PCB/day continuous process plant would be suitable for creating an eco-park in the country, whereas, the 100kg PCB/batch process plant would be suitable for the informal sector. This could be done by upgrading and transforming the present state of affairs of informal sectors.\n
+E-waste also contains plastic, up to nearly 25 per cent of its weight. Novel recovery and conversion of e-waste plastics to value-added products have also been successfully developed.\n
+The developed process is capable of converting a majority (76 per cent) of the waste plastics into suitable materials, which could be used for virgin plastic products. The technology has already been transferred for commercialisation. Professor Veena Sahajwalla, an expert, based in Australia, suggests setting up micro-factories in India that can transform e-waste into reusable material to be converted into ceramics and plastic filaments for 3D printing.\n
+The high-grade metals — like gold, silver, copper and palladium — in the e-waste can be separated for re-sale in conditions that are totally safe. She opines that there is no reason to burn plastic, micro-factories can create filament with plastic by compressing the waste in a temperature controlled area.\n
+A modular micro-factory, which would require a 50 sq mt area, can be located wherever waste is stockpiled. She says that if funds are made available towards initial capital expenditure to operators, it will help empower the people working with waste.
+Immense potential is there in augmenting e-waste recycling in the country. There are some forward movements in this direction, however, lots of ground has to be covered through awareness campaign, skill development, building human capital and introduction of technology while adopting adequate safety measures in the country’s informal sector.\n
+Since India is highly deficient in precious mineral resources (whereas untreated e-waste goes to landfill), there is need for a well designed, robust and regulated e-waste recovery regime which would generate jobs as well as wealth.\n</string>
+    <string name="glass_recycling"><b>What is Glass Recycling?</b>
+Glass is a very important inorganic material which is one of the largest productions of industries. It can be made into a variety of different products used for man’s daily living. It is an amorphous solid which can have different compositions of semiconductors but most importantly are made of molten silica along with limestone and soda ash.\n
+We all use glass in our homes. Glass is used in making crockery, windows, doors, mirrors, disposable bottles and many other household items. Though the use we commit them to may differ, one thing is that we can recycle this glass. Like other recyclable materials, you can also put your glass in the recycling bin. But before you do this, you need to first understand what glass recycling is.\n
+Glass recycling is the process of making glass materials into new glass products. This way, used glass materials pass through a recycling process that requires breaking and melting the glass.\n
+Recyclers use this old glass to form a new glass material. Experts even say that you can recycle your entire glass material.\n
+<b>What Type of Glass Can You Recycle?</b>\n
+No doubt, you have heard or read that you can recycle glass. However, you might not have heard or read that not all the glass you find are recyclable. Not many people know this, so it is okay if you are hearing it for the first time.
+It is essential you know the types of glass you can recycle. This would make you conscious the next time you want to toss a glass into the recycling bin.\n
+Below, we tell you the glass that you can recycle and those that you cannot recycle.\n
+<b>Glass That You Can Recycle</b>
+Almost all the glass you use in the kitchen is recyclable. The one you use for your food items too is recyclable. So, you can always toss your condiment containers into the recycling bin. You can also throw your glass jar into the recycling bin.\n
+Nonetheless, this kitchen glass is not absolute. You should not just assume that using your glass in the kitchen qualifies it for the recycling bin. This means you have to be more inquisitive. But, how do you do this?\n
+You can determine this by checking your kitchen glass. If you find the recycling logo on it, you can then toss it in the recycling bin. If you do not, this means you should not put it into the recycling bin.\n
+You can also consider the glass’ recycling code in line with your approved recycling program. If they match, then you are free to toss the glass into the recycling bin.\n
+<b>Glass That You Can’t Recycle</b>\n
+You can’t recycle ceramic glass. You can’t also recycle decorative glass. Hence, all the glass that have special additives that were used to decorate it cannot enter the recycling bin\n
+<b>Step By Step Process of Recycling Glass</b>\n
+If you have some glass that you are thinking of recycling, you have to relax a bit. Recycling glass is more complicated than you think. There are some necessary steps that you have to follow to recycle your glasses.
+We have explained the step below. All you have to do is follow them, and recycling your glasses would be as easy as you can think. So, let’s go.\n
+<b>Step 1: Disposal</b>\n
+The first step to recycling your glass is to dispose of them in a separate recycling bin. You should not mix your glass with other recyclable materials. Glass is prone to break easily. Due to this, they may break into the recycling bin. When this happens, they contaminate other recyclable material. To avoid this, you should get a different recycling bin for your glass.
+You can also drop them off at a glass drop-off spot. This way, you are assured that the glass won’t break and contaminate other materials. If they break in the drop-off bin, they are still useful.\n
+<b>Step 2: Recyclers Collection</b>\n
+Putting your glass in a separate recycling bin or a glass drop-off spot is an indication that you want to recycle. Hence, when recycling companies make their routine journey around town, they can collect the glasses.\n
+After collection, they would take the glass to their recycling centers, where they store them.\n
+<b>Step 3: Inspection</b>\n
+The glass that you want to recycle has to go through the process of inspection. This is important to check that the glasses are not hazardous or contaminated. It is also essential to know which glasses would go for recycling.\n
+<b>Step 4: Sorting</b>\n
+Before recycling centers begin the proper recycling process, they would need to sort the glasses. This is important because it will allow them to separate the major and minor contaminants. These contaminants are not glass materials but have found their way among the glass.\n
+The contaminants that they try to separate include; pyrex, ceramics, aluminum cans, and mirrors. Others include; cardboards, window frames, and light bulbs.\n
+This is also the process where recyclers try to separate the glass according to its color.\n
+Majorly, they set two colors aside; the brown glass and the non-brown glass. The brown glass is the one that is fit and proper for recycling.\n
+<b>Step 5: Breaking</b>\n
+In this step, recycling companies start breaking the glass to allow for easy recycling. In this process, the recycling station uses a machine with about twenty-four hammers. These hammers are almost the same size as a forearm. They operate so that they spin sporadically in an axle and break the glass into tiny particles. Recyclers keep these particles to undergo another optical sorting process.
+During the breaking process, recyclers often face the problem of particles becoming airborne. So, to control this, they occasionally add some water mist to stop the particles that might want to become airborne.\n
+<b>Step 6: Trommel</b>\n
+This is another step where the recycling station tries to separate the glass according to their sizes. For many recycling stations, they sort the glass into 3.4 inches and 3.8 inches sizes. They do this by passing the broken glass through a trommel that looks like some revolving screens.\n
+Inside this revolving screen, a fan pushes out the labels or stickers that might still be on the bottles. The tags or stickers go into a different chamber, where they are delivered for recycling.\n
+Not all items will fit into the revolving screen for sorting. There are others like errant labels, corks, lids, and caps. These materials don’t go to waste. The recycling station also directs them into a different chamber where they separate them. They are also recyclable materials and would be recycled accordingly.\n
+<b>Step 7: Bed Drier Fluidization</b>\n
+This is another critical process in the recycling of glass. In this process, the recycling station puts the glass particles in a drier. The drier is often about four inches in size.\n
+After this, there is a vibratory action that moves the glass particles across the bed drier. Recycling stations then heat air to about 190 degrees Fahrenheit. They do this by making use of natural gas that have been forced along the bed drier.\n
+In this process, many things occur. We love to refer to this process as the purification process. This is because the heated air burns bacteria and sugars. The glue used to hold the label to the bottles is also loosened. There is a vacuum system at the top of the bed drier. This vacuum system sucks away the residue that may have floated to the top of the drier.\n
+<b>Step 8: Rotary Screen (Primary stage)</b>\n
+Just like you might have noticed, there are two stages of the rotary screen step. We will discuss the other later. Let’s first consider what happens here.\n
+In this stage, recycling stations screen the cleaned and dried glass. This is important to separate the glass into different sizes. There are many screens in this stage, and occasionally, recycling stations change them to get other glass.\n
+Changing the screen is crucial to the manufacturing of some things. For instance, all the glass particles used in manufacturing fiberglass should not be beyond twelve mesh in size.\n
+So, separating and changing the screens is essential to get the desired result for manufacturing different materials.\n
+<b>Step 9: Pulverizer</b>\n
+This process is like a repeat of the breaking process. Here, the glass particles that couldn’t fit into the rotary screen in the primary stage is taken to the pulverizer.\n
+The process here is more stringent. Recycling stations use a pulverizer that has about thirty-six hammers. These hammers work around an enclosed area and belligerently reduce the size of the glass particles.\n
+Recycling stations take the products of this process back to the rotary screen in the primary stage. They separate them using the net. The glass particles that are too big to fit into the screen are directed to the pulverizer machine. They repeat this stage until all glass particles can fit into the screen at the primary step.\n
+<b>Step 10:  Rotary Screen (Secondary Stage)</b>\n
+This is an upgrade of the rotary screen process of the primary stage. Here, the recycling station passes the glass particles through different screens. They do this to separate the particles into four different sizes finally.
+Step 11: Classification of Glass Culets
+Recycling stations classify the glass particles according to the glass culets. Generally, there are about three sizes. They include;\n
+<i>The pebbles</i>\n
+<i>The sand</i>\n
+<i>The powder</i>\n
+<b>Step 12: Recycling Proper</b>\n
+The recycling station begins to recycle the glass cullet for new glass materials. the materials they can make of these glass cullets include;
+Glass container\n
+Fiberglass\n
+Flux and additive for metal foundry etc\n
+Benefits of Recycling Glass\n
+Hardly can there be no benefits for recycling material. Mostly, these benefits tilt towards the environment. For glass, this is not different. There are many environmental benefits of putting your bottles into the recycling bin. Below, we evaluate some of them.
+<b>1. Saves Energy</b>\n
+One of the obvious benefits of recycling anything you find around is the energy-saving advantage. Recycling glass helps to save energy in many ways. For instance, manufacturers’ use of energy in producing new bottles is way higher than what is used to recycle.\n
+If you consider manufacturing processes, you will discover that there is a lot of damage done to the environment. And this is through the use of energy.\n
+Recycling these already produced glasses means we are saving more energy. Glass cullet, for instance, would burn at a considerably lower temperature. This means more energy to divert into other useful things.\n
+<b>2. Reduction in Pollution</b>\n
+Recycling glasses has been a contributory factor in reducing pollution in the environment. For instance, when you recycle glass, you reduce water pollution by about fifty percent. You also reduce air pollution by approximately twenty percent. So, it is evident that recycling glass is the way we should all go.\n
+<b>3. More Space On Landfills</b>\n
+When you recycle bottles, you are freeing up space in the landfills. Since you can recycle everything about bottles, it has no business in the landfills. So, the implication is that the more you recycle bottles, the more space you free for materials that are not recyclable.\n
+<b>4. Safer Environment</b>\n
+Recycling glass is a big win for the environment. Glasses are dangerous objects, especially when they break. If you don’t recycle them, they will only end up in different places. Here, they can cause injury to many persons and animals.\n
+<b>Conclusion</b>\n
+Glass is one of the most familiar things in our homes. This means we should be okay with recycling them without worry.</string>
+    <string name="wood_recycling">What is Wood Recycling ?\n
+Wood Recycling  is the process of turning waste wood into new / usable products. These wastes are normally used as fuel for brick making and partly also for cooking. At medium or large establishments some of the wastes, like: dry sawdust and chips, are being used as fuel for wood drying process.\n
+There are so many reasons for Wood Recycling but the major reason of recycling is world approaching closer to global warming. Growing environmental issues and global warming have given to individual many reasons to get recycle their waste products and reduce their global footprints. Uses of fresh wood increase in Industries day by day for different use like paper industry use fresh wood for making pulp, plywood Industry and transport industry use the same for carrying stuff and major use of fresh wood is in making Wood Pallets. Industry uses wood in Packaging Materials like wooden pallet, wooden crate, wooden box etc. Generally the wood pallets are uses by industries one time only and after that either it used for making furniture or in replace of coal in brick making sector or boiler plants. Even high quality of fresh wood like pine wood, Hickory Wood, Red Wood etc. used for industrial use and after one time use either it burned or used for making furniture. In India different  wood used for making Wooden Packaging Pallets, wooden crate, wooden box etc.\n
+Types of wood :\n
+                •	<i>Mango Wood</i>\n
+                •	<i>Pine, spruce Wood</i>\n
+                •	<i>Birch Wood</i>\n
+                •	<i>Alder Wood</i>\n
+                •	<i>Beech Wood</i>\n
+                •	<i>Poplar Wood</i>\n
+                •	<i>Fir Wood</i>\n
+                •	<i>Oak Wood</i>\n
+                •	<i>Ash Wood</i>\n
+                •   <i>Hornbeam Wood</i>\n
+Use of wood also depend upon the uses of packaging stuff, either packaging made for local transport purpose or for export purpose, generally softwood pallets are used for export purpose because they are hight in weight. These types of wooden pallets are ideal for packing and exaporting goods. These pallets are heat treated and are very light in weight.
+As we are growing economy and industrialization in India growing very fast on yearly bases more than 1.5 billion pallets are made each year and about 5 billion pallets (Approximately) are in use across the country.\n
+<b>Benefits of Wood Recycling</b>\n
+One of the best benefits of recycled wood about which generally peoples are not aware, that most recycled woods are actually stronger than new wood. When we manufacture new wood/ timber we need fresh wood and before using it, that wood will placed in a drying kiln to get dry the moisture inside of wood but it cannot completely remove at all. With recycled wood, you can be sure that the moisture content is almost zero because it is already dry for long time, thus making them very hard and sturdy. Recycled wood has the advantage of less moisture content about 20% as compared to virgin wood about 60% to 70%. This means for the same weight of wood purchased you have to pay for less moisture when it comes to recycled wood. The lower moisture content also means higher durability. With wood recycling we can reduce the raw material cost as well operation cost.
+Wood recycling is more beneficial for panel board mills for the manufacture of chipboard, middle-density fibreboard and higher value fibreboard. Through the recycling of wood the recycling units helps to reduce wood waste and save wood resources which is more environmentally friendly.
+One of the biggest benefits of waste wood recycling is to reduce the physical space that is otherwise consumed by wood in landfill spaces. Through introducing waste wood recycling companies adopted an environment friendly and business-minded approach.\n
+                	<i>Reduced landfill</i>\n
+                	<i>Reduced spend on material processing</i>\n
+                	<i>Save trees</i>\n
+                	<i>Less probability of fire risk</i>\n
+Sorting process of wood waste : \n
+                	<i>Wood waste is sorted manually. Other recyclable parts, such as glass, ferrous and non-ferrous metals, plastic are removed.</i>\n
+                	<i>Glass, metals and plastic are further recycled or utilized.</i>\n
+                	<i>“Dead“ waste wood is crushed in crushers or mills into pieces of required size using magnets, sieves and other equipment.</i>\n
+                	<i>The acquired material is delivered to a manufacturer to be used in the production of chipboard, or to be processed further.</i>\n
+</string>
+    <string name="metal_recycling">Recycling Scrap Metal\n
+
+        <b>1. Collection</b>\n
+The collection process for metals differs than that for other materials because of higher scrap value. As such, it is more likely to be sold to scrap yards than sent to the landfill. The largest source of scrap ferrous metal in the U.S. is from scrap vehicles.\n
+Sources include large steel structures, railroad tracks, ships, farm equipment, and of course, consumer scrap. Prompt scrap, which is created in the course of new product manufacturing, accounts for one-half of ferrous scrap supply.\n
+
+        <b>2. Sorting</b>\n
+Sorting involves separating metals from the mixed scrap metal stream or the mixed multi-material waste stream. In automated recycling operations, magnets and sensors are used to aid in material separation.\n
+
+At the entrepreneurial level, scrappers may employ a magnet, as well as to observe the material color or weight to help determine the metal type. For example, aluminum will be silver and light. Other important colors to look for are copper, yellow (for brass) and red, for red brass. Scrappers will improve the value of their material by segregating clean metal from the dirty material.\n
+
+        <b>3. Processing</b>\n
+
+To allow further processing, metals are shredded. Shredding is done to promote the melting process as small shredded metals have a large surface to volume ratio.\n
+As a result, they can be melted using comparatively less energy. Normally, aluminum is converted into small sheets, and steel is changed into steel blocks.\n
+        <b>4. Melting</b>\n
+Scrap metal is melted in a large furnace. Each metal is taken to a specific furnace designed to melt that particular metal. A considerable amount of energy is used in this step.\n
+Still, as mentioned above, the energy required to melt and recycle metals is much less than the energy that is needed to produce metals using virgin raw materials. Based on the size of the furnace, the degree of heat of the furnace and volume of metal, melting can take from just a few minutes to hours.\n
+        <b>5. Purification</b>\n
+Purification is done to ensure the final product is of high quality and free of contaminants. One of the most common methods used for purification is Electrolysis.\n
+
+        <b>6. Solidifying</b>\n
+After purification, melted metals are carried by the conveyor belt to cool and solidify the metals. In this stage, scrap metals are formed into specific shapes such as bars that can be easily used for the production of various metal products.\n
+
+        <b>7. Transportation of the Metal Bars</b>\n
+Once the metals are cooled and solidified, they are ready to use. They are then transported to various factories where they are used as raw material for the production of brand new products.\n
+When the products made of these metal bars come to the end of their useful life, the metal recycling process cycles again.\n
+</string>
+    <string name="textile_recycling"><b>CLOTHING AND TEXTILE RECYCLING</b>\n
+<b>What Is Textile Recycling?</b>\n
+Textile recycling is the process by which old clothing and other textiles are recovered for reuse or material recovery. It is the basis for textile recycling. The necessary steps in the textile recycling process involve the donation, collection, sorting and processing of textiles, and then subsequent transportation to end users of used garments, rags or other recovered materials.\n
+<b>The Urgency to Recycle Textiles:</b>\n
+The importance of recycling textiles is increasingly being recognized. An estimated 100 billion garments are produced annually, worldwide. According to the U.S. EPA, around 17 million tons of textile municipal solid waste (MSW) was generated in 2018, about 5.8% of total MSW generation. The recycling rate for textiles derived from clothing and footwear was 13.0%, while the recovery for sheets and pillowcases was 15.8% for the same year. As such, textile recycling is a significant challenge to be addressed as we strive to move closer to a zero landfill society.\n
+Once in landfills, natural fibers can take a few weeks to a few years to decompose. It may release methane and CO2 gas into the atmosphere.\n
+
+ Additionally, synthetic textiles are designed not to decompose. In the landfill, they may release toxic substances into groundwater and surrounding soil.\n
+Textile recycling offers the following environmental benefits:\n
+        <i>1. Decreases landfill space requirements, bearing in mind that synthetic fiber products do not decompose and that natural fibers may release greenhouse gases</i>\n
+        <i>2. Avoided use of virgin fibers</i>\n
+        <i>3. Reduced consumption of energy and water</i>\n
+        <i>4. Pollution avoidance</i>\n
+        <i>5. Lessened demand for dyes.</i>\n
+
+ <b>Sources of Textiles for Recycling:</b>\n
+Textiles for recycling are generated from two primary sources. These sources include:\n
+1. Post-consumer, including garments, vehicle upholstery, household items and others.\n
+2. Pre-consumer, including scrap created as a by-product from yarn and fabric manufacture, as well as the post-industrial scrap textiles from other industries.\n
+The donation of old garments is supported by non-profit as well as many corporate programs, including those of Nike and Patagonia.\n
+<b>The Recycling Process :</b>\n
+For the basics of recycling,we need to read about clothing recycling first.\n
+<b>How Clothing Recycling Works :</b>\n
+Clothing recycling is part of textile recycling.It involves recovering old clothing and shoes for sorting and processing. End products include clothing suitable for reuse, cloth scraps or rags as well as fibrous material. Interest in garment recycling is rapidly on the rise due to environmental awareness and landfill pressure. For entrepreneurs, it provides a business opportunity. In addition, various charities also generate revenue through their collection programs for old clothing.\n
+<b>Collection :</b>\n
+Clothing recyclers use a variety of strategies for picking up clothing. Post-consumer clothing is picked up generally from bins placed in public places, as well as from clothing drives and door-to-door collection. Bins are typically placed strategically in public places like parking lots in business centers and shopping malls. Colorful bins are positioned in high traffic, high visibility locations to help maximize donations.
+<b>Clothing sorting :</b>\n
+Once collected, clothing is classified into three groups: reuse, rags, and fiber. Typically this is a manual sorting process that requires expertise in identifying various types of material. The process can be aided by such mechanical systems as conveyor belts and bins to segregate various grades of material.\n
+Recyclers report that about one-half of donated garments can be reused. Some recyclers bale this clothing for export to developing countries, while some garments are used domestically for sale in thrift shops. Industrial cloth rags and wipes are other important residuals of the recycling process. Additionally, clothing may be reduced to fibrous material.\n
+<b>Processing:</b>\n
+Textile fabric and clothing commonly consist of composites of synthetic plastics and cotton (biodegradable material). The composition will influence its method of recycling and durability.\n
+Collected clothing is sorted and graded by highly experienced and skilled workers. These sorted items are sent to different destinations as outlined.\n
+For natural textiles, incoming items are sorted in terms of color and material. By segregating colors, the need for re-dying can be eliminated, reducing the need for pollutants and energy. Then the clothing is torn into sloppy fibers and combined with other chosen fibers, conditional on the planned end use of the recycled fiber. Once cleaned and spun, fibers can be compressed for use in mattress production. Textiles which are sent to the flocking industry are used to produce filling material for furniture padding, panel linings, loudspeaker cones, and car insulation.\n
+The recycling process works somewhat differently for polyester-based materials. In this case, the first thing is to remove zippers and buttons and then to cut the clothing into smaller pieces. Those shredded small fabrics are then granulated and shaped into pellets.
+As the textile industry continues to grow, it will be challenged to devise ways to boost recycling rates as well as to develop technologies that will help maximize the value of recovered material.\n
+
+<b> How Textile recycling works:</b>\n
+For textiles to be recycled, there are fundamental differences between natural and synthetic fibers. For natural textiles:\n
+        <i>1)The incoming unwearable material is sorted by type of material and color. Color sorting results in a fabric that does not need to be re-dyed. The color sorting means no re-dying is required, saving energy and avoiding pollutants.</i>\n
+        <i>2)Textiles are then pulled into fibers or shredded, sometimes introducing other fibers into the yarn. Materials are shredded or pulled into fibers. Depending on the end use of the yarn, other fibers may be incorporated.</i>\n
+        <i>3)The yarn is then cleaned and mixed through a carding process.</i>\n
+        <i>4)Then the yarn is re-spun and ready for subsequent use in weaving or knitting.</i>\n
+        <i>5)Some fibers are not spun into yards, however. Some are compressed for textile filling such as in mattresses.</i>\n
+In the case of polyester-based textiles, garments are shredded and then granulated for processing into polyester chips. These are subsequently melted and used to create new fibers for use in new polyester fabrics.\n
+<b>Beyond Recycling, Shop Sustainably:</b>\n
+As society becomes more familiar with the hazards associated with sending old textiles to the landfill, and as new recycling technologies develop, it can be anticipated that the textile recycling industry will continue to grow. At the same time, watch for trends such as slow fashion to draw continued attention to the interplay of clothing and sustainability. The fast fashion industry generates considerable pollution and a sizable negative impact on climate change. Consumers can help affect change by choosing clothing brands that last longer and which demonstrate a commitment to reducing their climate change impact.\n
+
+ <b>CONCLUSION:</b>\n
+We all have clothes or textiles such as curtains, duvet covers and blankets that we don’t want any more or are past their best.But at least 50% of the textiles that one throws away are recyclable, but in practical only 25% of wastes are recycled.\n
+The good news is that there are lots of simple ways to keep all clothing in use, and out of the bin.\n
+Clothes and textiles that are in good condition can be donated and sold for re-use. This is an important way to minimise the overall impact that clothing has on our environment.\n
+Items that aren’t suitable to be passed onto someone else can be recycled and made into new items, such as padding for chairs and car seats, cleaning cloths and industrial blankets.\n
+SO....\n
+Drop off your unwanted items at recycling points and clothing and textile banks in supermarkets and local car parks.\n</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/AppLogo_background.xml" value="0.13177083333333334" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_bricks_inert_waste.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_electronic_recycling.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_food_bank.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_glass_recycling.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/activity_hotel_bhimas.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_hotel_plates_list.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2021201182625376" />
+        <entry key="app/src/main/res/layout/activity_main_admin.xml" value="0.2359375" />
+        <entry key="app/src/main/res/layout/activity_metal_recycling.xml" value="0.22653061224489796" />
+        <entry key="app/src/main/res/layout/activity_plastic_recycling.xml" value="0.168926268987475" />
+        <entry key="app/src/main/res/layout/activity_recycling.xml" value="0.21331429524029583" />
+        <entry key="app/src/main/res/layout/activity_textile_recycling.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_bhimas.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/activity_wood_recycling.xml" value="0.115625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
